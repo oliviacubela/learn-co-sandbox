@@ -1,0 +1,4 @@
+require 'rails'
+
+
+"Hello World"
